@@ -1,3 +1,4 @@
+#1ое задание 
 '''
 a= int(input())
 if a%2==0:
@@ -5,6 +6,7 @@ if a%2==0:
 else: 
     print('Данное число не является четным')
     '''
+#2ое задание 
 '''
 a= int(input())
 b= int(input())
@@ -15,6 +17,7 @@ elif a==b:
 else:
     print(b)
     '''
+#3е задание 
 '''
 a= int(input())
 b= int(input())
