@@ -29,7 +29,7 @@ start = text.find("(")
 while start != -1: 
     end = text.find(")", start) 
     if end != -1: 
-        result += text[start + 1: end] + "n"  
+        result += text[start + 1: end] 
     else:  
         break  
     start = text.find("(", end)
